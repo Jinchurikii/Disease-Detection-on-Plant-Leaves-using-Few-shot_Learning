@@ -5,9 +5,9 @@ This repository contains the code and resources for my master's thesis, which fo
 
 ## Setup the environment
 
+
+- Clone github repo for ultralytics yolov5 https://github.com/ultralytics/yolov5
 - Install all the packages in requirement.txt
-- Clone github repo for ultralytics yolov5 [] https://github.com/ultralytics/yolov5
- 
  
  
 ## Implimentation
