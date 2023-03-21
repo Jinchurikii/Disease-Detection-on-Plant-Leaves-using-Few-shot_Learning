@@ -16,7 +16,10 @@ This repository contains the code and resources for my master's thesis, which fo
 - For YOLOv5, train.py is used to train on DFKI GPU clusters. 
 - For testing, a separate test.py script provided by yolov5 model can be used.
 
+## Pre-trained weights
 
+- The pre-trained weights for YOLOv5 trained on PlantVillage dataset from scratch, and with coco weights are available in the weight folder.
+- Those weights can be used for fine-tuning the model with any other crop dataset or few-shot crop dataset.
 
 
 
