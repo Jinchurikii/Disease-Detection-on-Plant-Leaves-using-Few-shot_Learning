@@ -12,7 +12,7 @@ This repository contains the code and resources for my master's thesis, which fo
  
 ## Implimentation
 
-- For implementation of Yolov5, please followe the instructions of ultralytics yolov5 repo. I have changed some hyperparameters according to      my training requirements and dataset. 
+- For implementation of Yolov5, please follow the instructions of ultralytics yolov5 repo. I have changed some hyperparameters according to      my training requirements and dataset. 
 - For YOLOv5, train.py is used to train on DFKI GPU clusters. 
 - For testing, a separate test.py script provided by yolov5 model can be used.
 
